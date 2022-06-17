@@ -12,6 +12,12 @@ Plugins
 /Import/*
 !/Import/README.md
 
+*.png
+*.PNG
+*.jpg
+*.JPG
+*.txt
+*.ply
 *.VC.db
 *.VC.opendb
 *.a
