@@ -1,3 +1,14 @@
+Modified version of CARLA. Additions:
+- Normal Camera
+- Lidar reflectance Camera (based upon Phong model - https://github.com/carla-simulator/carla/issues/3826 )
+- Base Color (Albedo) Camera
+- Specular Camera
+- Metallic Camera
+- Roughness Camera
+(Note that Base Color, Specular, Metallic and Roughness values are from Unreal's implementation of the Disney BRDF)
+
+
+
 CARLA Simulator
 ===============
 
