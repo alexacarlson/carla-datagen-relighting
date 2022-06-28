@@ -7,6 +7,8 @@ Modified version of CARLA. Additions:
 - Roughness Camera
 (Note that Base Color, Specular, Metallic and Roughness values are from Unreal's implementation of the Disney BRDF)
 
+Example dataset using these sensors to render the same drive under different times of day can be downloaded at:
+https://drive.google.com/file/d/1PBIde3X8HFQnp1iS5wQdbtO1RymQbxW7/view?usp=sharing
 
 
 CARLA Simulator
